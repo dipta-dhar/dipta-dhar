@@ -22,6 +22,11 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/dipta-dhar/Chess-Master?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/dipta-dhar/Chess-Master?style=flat-square&labelColor=343b41"/></td>
      </tr>
+    <tr>
+      <td><a href="https://github.com/dipta-dhar/Algorithm-and-DataStructure"><b>Algorithm & Data Structure</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/dipta-dhar/Algorithm-and-DataStructure?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/dipta-dhar/Algorithm-and-DataStructure?style=flat-square&labelColor=343b41"/></td>
+     </tr>
   </tbody>
 </table>
 
